@@ -1,7 +1,5 @@
-#!/Users/apeterson/.pyenv/versions/3.7.2/bin/python
+#!/.pyenv/versions/3.7.2/bin/python
 """Module docstring."""
-# pylint: disable= W0601, E0611, W0702, W0622, W0235, E1101, E1305, W0201, C0103, R0902, R0903, R1702, C0301, R0915
-# This disables erronious pylint errors.
 import json
 import os
 import ssl
